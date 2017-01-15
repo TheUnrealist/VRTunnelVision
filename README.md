@@ -1,6 +1,6 @@
 # VR Tunnel Vision Effect in Unreal Engine 4
 
-This is the sample Unreal Engine 4 project I created as part of this YouTube tutorial: [Recreated: Google Earth VR Tunnel Vision Effect](tbd)
+This is the sample Unreal Engine 4 project I created as part of this YouTube tutorial: [Recreated: Google Earth VR Tunnel Vision Effect](https://youtu.be/b2CcKKotpBM)
 
 ## Download Instructions
 
@@ -10,9 +10,15 @@ This is the sample Unreal Engine 4 project I created as part of this YouTube tut
 
 If you encounter any problems downloading or using this project, post a support request in [Issues](https://github.com/TheUnrealist/VRTunnelVision/issues).
 
+## Required Unreal Engine Version
+
+4.14
+
 ## Credits
 
 The visual assets in this project come from the excellent "Landscape Mountains" learning content from Epic Games. You can download the original Landscape Mountains project from the Epic Games Launcher (Learn > Landscape Mountains).
+
+## License
 
 You may use this project in any way you like.
 
